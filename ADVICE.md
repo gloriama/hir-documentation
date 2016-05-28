@@ -30,6 +30,8 @@ This is a longer brain dump of thoughts and suggestions. These are things I eith
 
 * Remember to be openly, confidently clueless. Ask questions. You are still learning. *The entire time you spent as a student here is literally just 1% of a 25-year career in software engineering.* There are no things that you "should already know" that it’s too late to ask about. Seriously. Just Ask It™.
 
+* Face your fears. Notice what parts of your job you dread, feel unconfident in, or overprepare for. Do that part of your job more, and lean into the discomfort as something that is helping you grow.
+
 ## Bonus content
 
 ### Ways to impress juniors
